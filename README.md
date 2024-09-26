@@ -1,5 +1,7 @@
 # TetrisNoHoldinPureC
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a0eef5c4bde240e7889c902a3b3279b9)](https://app.codacy.com/gh/technocrat13/MiniProject_Template?utm_source=github.com&utm_medium=referral&utm_content=technocrat13/MiniProject_Template&utm_campaign=Badge_Grade_Settings)
+
 ![example workflow](https://github.com/technocrat13/MiniProject_Template/actions/workflows/main.yml/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/754ff015c0d445f69d5cae69dd70ced8)](https://www.codacy.com/gh/technocrat13/MiniProject_Template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=technocrat13/MiniProject_Template&amp;utm_campaign=Badge_Grade)
 
